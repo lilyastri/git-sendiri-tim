@@ -9,7 +9,7 @@ Jadi, sebenarnya apa yang dimaksud dengan Git? Ini adalah bagian penting untuk d
 
 Cara kerja git ini memanfaatkan repositori online dan offline, contohnya kita punya folder/directory project di lokal (offline), folder tersebut bisa kita upload ke repositori online yang sudah disediakan banyak pihak, setelah di upload rekan-rekan bisa meng-clone(istilahnya sih copas) lalu setelah di clone kita, rekan-rekan yang lain bisa mengubah isi file pada project tersebut secara lokal. Jika rekan-rekan ingin menambah atau mengurangi code yang ada pada file, mereka harus upload ke repository terlebih dahulu, kemudian rekan-rekan yang lain nanti jika ingin mendapatkan update harus mendownload lagi repositorinya, namun file yang di download ini sesuai dengan perubahan yang dilakukan oleh kita.
 
-  <img src="https://github.com/lilyastri/git-sendiri-tim/pi1.jpg" alt="gb52"/>
+  <img src="https://github.com/lilyastri/git-sendiri-tim/blob/master/pi1.jpg" alt="gb52"/>
 
 Nah didalam git terdapat branch, yang dimana fungsi branch ini adalah meletakkan workspace atau istilahnya tempat kerja khusus. Biasanya saya membuat branch ini berdasarkan masing-masing orang yang terlibat project, jika ada 5 orang yang terlibat project tersebut, maka akan ada 5 branch pada project tersebut.
 
@@ -50,7 +50,7 @@ Tujuannya agar setiap orang bisa memiliki versi sendiri dalam bekerja dan bisa f
 
 Salah satu layanan GIT yang terkenal dan sering digunakan adalah Github. Apa itu Github?????????
 
-  <img src="https://github.com/lilyastri/git-sendiri-tim/pi2.jpg" alt="gb82"/> 
+  <img src="https://github.com/lilyastri/git-sendiri-tim/blob/master/pi2.jpg" alt="gb82"/> 
 
     Github adalah  software Hosting untuk proyek open source  yang menggunakan Tool  System revisi 
     kontrol Git. Jadi Git adalah tool untuk melakukan revisi code, sedangkan github adalah webhostingnya. 
