@@ -16,8 +16,9 @@ Nah didalam git terdapat branch, yang dimana fungsi branch ini adalah meletakkan
 Tujuannya agar setiap orang bisa memiliki versi sendiri dalam bekerja dan bisa fokus ke fitur yang sedang dia kerjakan, ada juga yang menyediakan branch berdasarkan versi rilis aplikasi juga, jadi semua tergantung bagaimana teman-teman mengatur git itu sendiri.
 
 ---
-**Ada beberapa perintah dasar yang biasanya digunakan dalam git, perintah dimulai dari kata “git”, yaitu :**
+### Ada beberapa perintah dasar yang biasanya digunakan dalam git, perintah dimulai dari kata “git”, yaitu :
 ---
+
 - git init 
     untuk membuat repositori lokal di dalam folder project.
 - git clone
@@ -36,8 +37,9 @@ Tujuannya agar setiap orang bisa memiliki versi sendiri dalam bekerja dan bisa f
     menggabungkan semua branch yang ada pada repositori.
 
 ---
-**Alur kerja dasar Git adalah seperti ini:**
+### Alur kerja dasar Git adalah seperti ini:
 ---
+
 - Anda mengubah berkas dalam direktori kerja anda.
 - Anda membawa berkas ke stage, menambahkan snapshotnya ke staging area.
 - Anda melakukan commit, yang mengambil berkas seperti yang ada di staging area dan menyimpan snapshotnya secara permanen ke direktori Git anda.
@@ -50,13 +52,13 @@ Salah satu layanan GIT yang terkenal dan sering digunakan adalah Github. Apa itu
 
 Gambar2 
 
-    Github adalah  software Hosting untuk proyek open source  yang menggunakan Tool  System revisi kontrol Git.  
-    Jadi Git adalah tool untuk melakukan revisi code, sedangkan github adalah webhostingnya. Mudahnya Github adalah 
-    Webhosting untuk proyek proyek software seperti Google code atau sourceforge.net. Lebih singkatnya, Github adalah 
-    jejaring social untuk software developer.
+    Github adalah  software Hosting untuk proyek open source  yang menggunakan Tool  System revisi 
+    kontrol Git. Jadi Git adalah tool untuk melakukan revisi code, sedangkan github adalah webhostingnya. 
+    Mudahnya Github adalah Webhosting untuk proyek proyek software seperti Google code atau sourceforge.net. 
+    Lebih singkatnya, Github adalah jejaring social untuk software developer.
 
 ---
-**Fitur Sosial Github**
+### Fitur Sosial Github
 ---
 
 - Github user profile.
@@ -74,8 +76,9 @@ Biasanya ada dua cara menyiapkan Github untuk kolaborasi tim:
 - Collaborators ~~ Pemilik repositori dapat menambahkan kolaborator dengan akses Baca + Tulis untuk satu repositori
 
 ---
-**Organizations**
+### Organizations
 ---
+
 Jika Anda mengawasi beberapa tim dan ingin menetapkan tingkat izin yang berbeda untuk setiap tim dengan berbagai anggota dan menambahkan setiap anggota ke 
 repositori yang berbeda, maka Organization akan menjadi pilihan terbaik. Akun pengguna Github apa pun sudah dapat membuat Organizations  gratis untuk repositori kode sumber terbuka.
 Untuk mengakses halaman tim untuk Organization Anda, Anda cukup pergi ke URL dibawah untuk melihatnya
@@ -89,8 +92,9 @@ kemudian untuk membuat tim baru (dapat diakses di URL no 2) dengan anggota dari 
 - Push, Pull & Administrative: (1), (2) bersama dengan hak atas info penagihan, membuat tim serta membatalkan akun Organization. Baca + Tulis + akses Admin
 
 ---
-**Collaborators**
+### Collaborators 
 ---
+
 Collaborators digunakan untuk memberikan akses Read + Write access ke satu repositori yang dimiliki oleh akun pribadi. Untuk menambahkan Collaborators, (akun pribadi Github lainnya), cukup buka 
     
     https://github.com/[username]/[repo-name]/settings/collaboration:
@@ -98,7 +102,7 @@ Collaborators digunakan untuk memberikan akses Read + Write access ke satu repos
 Setelah itu selesai, masing-masing Collaborator kemudian akan melihat perubahan dalam status akses pada halaman repositori. Setelah kita memiliki akses Write ke repositori, kita dapat melakukan **git clone**, bekerja pada perubahan, membuat **git pull** untuk mengambil dan menggabungkan setiap perubahan dalam repositori jarak jauh dan akhirnya **git push**, untuk memperbarui repositori jarak jauh dengan perubahan kita sendiri.
 
 ---
-**Sumber**
+### Sumber
 ---
 
 - https://code.tutsplus.com/id/articles/team-collaboration-with-github--net-29876
